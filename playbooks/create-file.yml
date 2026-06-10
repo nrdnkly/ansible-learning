@@ -1,0 +1,17 @@
+- name: My First Playbook
+  hosts: localhost
+  connection: local
+  gather_facts: false
+
+  tasks:
+    - name: Create a file
+      ansible.builtin.file:
+        path: /tmp/ansible-day03.txt
+        state: touch
+
+    - name: Write content to file
+      ansible.builtin.copy:
+        dest: /tmp/ansible-day03.txt
+        content: |
+          Hello from Ansible!
+          Day 03 - First Playbook
