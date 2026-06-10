@@ -1,5 +1,8 @@
-🚀 Ansible Learning Journey
+## 🚀 Ansible Learning Journey
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_logo.svg" width="120"/>
+</p>
 
 
 | Day | Topic                   | Status         |
@@ -12,11 +15,13 @@
 | 06  | Templates               | ⏳ Planned      |
 | 07  | Roles                   | ⏳ Planned      |
 
+```text
 ansible-learning/
 ├── inventory/
 │   ├── hosts.ini
 │   └── inventory.ini
 ├── playbooks/
+│   ├── day-03-playbook.yml
 │   └── create-file.yml
 ├── notes/
 │   ├── day-01.md
