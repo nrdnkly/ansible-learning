@@ -1,7 +1,7 @@
 ## 🚀 Ansible Learning Journey
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_logo.svg" width="120"/>
+  <img src="https://raw.githubusercontent.com/ansible/logos/main/ansible-logo.png" width="140"/>
 </p>
 
 
