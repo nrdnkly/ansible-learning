@@ -1,11 +1,8 @@
 ## 🚀 Ansible Learning Journey
 
 <p align="center">
-  <img src="assets/ansible-logo.png" width="120"/>
+  <img src="assets/ansible.jpeg" width="150"/>
 </p>
-
-<h1 align="center">🚀 Ansible Learning Journey</h1>
-
 
 | Day | Topic                   | Status         |
 | --- | ----------------------- | -------------- |
